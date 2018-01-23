@@ -1,0 +1,2 @@
+# WhyYouCanNotDoOopInJava
+なぜ、あなたはJavaでオブジェクト指向開発ができないのか
